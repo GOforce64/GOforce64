@@ -1,5 +1,5 @@
 # About Me:
-**Hi, I'm Giorgos** 👋<br>2nd year Computer Science student at Trinity College Dublin, interested in quantitative finance, trading systems, and building useful software.<br><br>🔭 Currently working on: a trade tracker that computes performance stats for my day trades, scalps, and post-earnings IV crush options plays<br>✅ Recently finished **Love Button**, an Android app for cute instant partner notifications<br>🌱 Currently learning: options pricing, volatility, and price action<br>💬 Ask me about: Python, self hosting, trading systems, Android apps<br>📫 How to reach me: giorgoszambas1@gmail.com<br>
+**Hi, I'm Giorgos** 👋<br>2nd year Computer Science student at Trinity College Dublin, interested in quantitative finance, trading systems, and building useful software.<br><br>🔭 Currently working on: a trade tracker that computes performance stats for my day trades, scalps, and post-earnings IV crush options plays<br>✅ Recently finished **Love Button**, an Android app for cute instant partner notifications<br>🌱 Currently learning: options pricing, volatility, and price action<br>💬 Ask me about: self hosting, trading systems, Android apps, Python<br>📫 How to reach me: giorgoszambas1@gmail.com<br>
 
 
 ## 🌐 Socials:
